@@ -1,3 +1,9 @@
+Sales Data Analysis 
+• Analyzed sales data to identify best/worst products and sales trends.
+• Created interactive Power BI dashboards for sales comparisons, discounts, and geographical analysis.
+• Implemented dynamic filtering for easy analysis of sales, profits, and discounts.
+• Calculated key metrics: total orders, average discounts, and city-wise sales performance.
+• Tools: Excel, Power B
 ![image](https://github.com/user-attachments/assets/3e9e96a9-5fc2-4d57-bda3-82e642de63ba)
 ![image](https://github.com/user-attachments/assets/b3684480-a26c-4571-a002-425cb81fed0f)
 ![image](https://github.com/user-attachments/assets/47a5579c-483a-45bd-9601-fb9fd430e0bf)
